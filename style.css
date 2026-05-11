@@ -1,8 +1,14 @@
+
+html{
+  overflow-x:hidden;
+}
+
 body{
   margin:0;
   font-family: 'Arial', sans-serif;
   background:#0f0f0f;
   color:#fff;
+  overflow-x:hidden;
 }
 
   
