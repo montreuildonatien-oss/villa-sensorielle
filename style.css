@@ -408,6 +408,8 @@ backdrop-filter: blur(4px);
   .room{
     width:100%;
     max-width:320px;
+    margin:0 auto;
+
   }
 
 .gallery-grid{
