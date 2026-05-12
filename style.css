@@ -130,7 +130,7 @@ backdrop-filter: blur(4px);
 
 .features div{
   position:relative;
-  padding:0 40px;
+  padding:0 15px;
 }
 
 .features div::after{
