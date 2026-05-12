@@ -406,11 +406,14 @@ backdrop-filter: blur(4px);
     padding:0 10px;
   }
 
-  .room{
-    width:100%;
-    max-width:320px;
-    margin:0 auto;
-  }
+ 
+.room{
+  width:100%;
+  max-width:320px;
+  margin:0 auto;
+  box-sizing: border-box;
+}
+
 
   .features{
     padding:0 10px;
