@@ -453,3 +453,11 @@ text-shadow:
 .container{
   padding:0 15px;
 }
+
+.features{
+  padding:0 10px;
+}
+
+.features div{
+  padding:0 10px;
+}
