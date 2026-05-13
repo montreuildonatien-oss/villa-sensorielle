@@ -78,8 +78,8 @@ font-size:64px;
   margin-top:50px;
   padding:16px 42px; /* un peu plus grand */
   border:2px solid rgba(212, 175, 127, 0.8); /* plus visible */
-  background:transparent;
-  color:#ffffff;
+  background:#d4af7f;
+  color:#000;
   font-size:14px; /* un poil plus lisible */
   letter-spacing:0.25em;
   cursor:pointer;
