@@ -49,6 +49,7 @@ body{
 }
 
 .hero h1{
+font-family: "Playfair Display", serif;
 font-size:64px;
   font-weight:200;
   letter-spacing:4px;
@@ -79,7 +80,7 @@ font-size:64px;
   padding:16px 42px; /* un peu plus grand */
   border:2px solid rgba(212, 175, 127, 0.8); /* plus visible */
   background:#d4af7f;
-  color:#000;
+  color:#dbbd94;
   font-size:14px; /* un poil plus lisible */
   letter-spacing:0.25em;
   cursor:pointer;
